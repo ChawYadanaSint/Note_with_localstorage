@@ -1,0 +1,26 @@
+.nav_display{
+  margin: 0 auto;
+  color: rgb(70, 187, 70);
+}
+
+
+.note_display{
+  display: flex;
+  flex-flow: row wrap;
+  column-gap: 80px;
+  /* justify-content: space-between; */
+}
+
+
+.note_card{
+  display: flex;
+  column-gap: 5px;
+}
+
+.note_card_push{
+  margin-left: auto;
+}
+
+.bi:hover{
+  cursor: pointer;
+}
